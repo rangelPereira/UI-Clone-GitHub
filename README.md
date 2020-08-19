@@ -1,8 +1,35 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div>
+<h1> 
+<strong >Clone do GitHUb</strong>
+</h1>
+Clone do GitHUb com versão dark mode, totalmente responsivo, utilizando a API do proprio GitHub, utilizando assim repositorios reais.
+Para a criação do Calendario foi usado a biblioteca react-calendar-heatmap juntamente com o date-fns para criar as contribuições aleatoriamente.<br>
+	
 
-## Available Scripts
+<h2 align='center'> 
+<strong >Algumas das tecnologias usadas são:</strong>
+</h2>
+<ul>
+	<li>react,</li>
+	<li>typescript,</li>
+	<li>react-calendar-heatmap,</li>
+	<li>date-fns,</li>
+	<li>typescript,</li>
+	<li>styled_components</li>
+</ul>
 
-In the project directory, you can run:
+
+<h2 align='center'> 
+<strong >Resultado da aplicação</strong>
+</h2>
+
+<img  src="./git/DarkMode.gif" width="800" />
+<img  src="./git/Img.jpg"  width="400" float="left" />
+<img  src="./git/img-dark.jpg"  width="400" />
+
+</div>
+
+
 
 ### `yarn start`
 
